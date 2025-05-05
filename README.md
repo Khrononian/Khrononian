@@ -1,17 +1,10 @@
 ## <p align='center'>👋 Hey, I'm Alvin </p> 
 
-📖 
+📖 Frontend Developer with who enjoys creating thoughtful web experiences and with a strong preference for dark mode. My journey into coding was driven by curiosity and a love for visual creativity.
+
+⚙️ I work with <mark style='background-color: #080808; color: white'>.html </mark>, <mark style='background-color: #080808; color: white'>.css </mark>, <mark style='background-color: #080808; color: white'>.js </mark>, <mark style='background-color: #080808; color: white'>.react </mark>, <mark style='background-color: #080808; color: white'>.firebase </mark>
 
 
-### 🔧 Technologies and tools
-<p float='left'>
-  <img src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png' width=4% height=4%>
-  <img src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png' width=4% height=4%>
-  <img src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png' width=4% height=4%>
-  <img src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png' width=4% height=4%>
-  <img src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png' width=4% height=4%>
-  <img src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png' width=4% height=4%>
-</p>
 <!--
 **Khrononian/Khrononian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
