@@ -10,7 +10,7 @@
 
 👾 I enjoy skateboarding, roller skating, video games and anime
 
-🔗 [Portfolio](https://alvinbarnesdev.netlify.app/)
+🔗 [Portfolio](https://alvinbarnesdev.netlify.app/) <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/alvin-barnes-b794092b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7NUciwRAQdONCHlSv6Jmkg%3D%3D)
 <!--
 **Khrononian/Khrononian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
