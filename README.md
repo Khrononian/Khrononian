@@ -6,7 +6,7 @@
 
 ⚙️ I work with <mark style='background-color: #080808; color: white'>.html </mark>, <mark style='background-color: #080808; color: white'>.css </mark>, <mark style='background-color: #080808; color: white'>.js </mark>, <mark style='background-color: #080808; color: white'>.react </mark>, <mark style='background-color: #080808; color: white'>.firebase </mark>
 
-🏫 Currently learning Typescript, NextJs and NodeJs
+🏫 Currently learning ~~Typescript~~, NextJs and NodeJs
 
 👾 I enjoy skateboarding, roller skating, video games and anime
 
